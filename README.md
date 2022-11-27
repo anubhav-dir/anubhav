@@ -7,6 +7,19 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About Project
+In this project user can fill the form and submit the form. 
+Form has
+- Profile Name (Required)
+- Profile Image (Required and JPG/PNG)
+- Email (Required and Unique)
+- Address
+- PAN Card No (Required)
+- Aadhar Card No (Required)
+
+And Admin Panel
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
